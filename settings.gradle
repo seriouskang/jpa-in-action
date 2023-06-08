@@ -2,3 +2,4 @@ rootProject.name = 'jpa-in-action'
 
 include 'value-object-collection'
 include 'alternative-value-object-collection'
+include 'one-to-many-unidirectional'
