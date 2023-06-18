@@ -1,6 +1,11 @@
 rootProject.name = 'jpa-in-action'
 
-include 'value-object-collection'
-include 'alternative-value-object-collection'
+// association mapping
 include 'unidirectional-association'
 include 'one-to-many-unidirectional'
+include 'many-to-many-unidirectional'
+include 'many-to-many-bidirectional'
+
+// value object
+include 'value-object-collection'
+include 'alternative-value-object-collection'
