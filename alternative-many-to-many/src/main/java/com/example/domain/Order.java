@@ -9,7 +9,7 @@ import java.util.List;
 
 @Entity
 @Table(name = "ORDERS")
-@NoArgsConstructor(access = AccessLevel.PUBLIC)
+@NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class Order {
     @Id @GeneratedValue
     private Long id;
