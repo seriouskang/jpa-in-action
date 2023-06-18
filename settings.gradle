@@ -2,7 +2,9 @@ rootProject.name = 'jpa-in-action'
 
 // association mapping
 include 'unidirectional-association'
+// one-to-many
 include 'one-to-many-unidirectional'
+// many-to-many
 include 'many-to-many-unidirectional'
 include 'many-to-many-bidirectional'
 include 'alternative-many-to-many'
