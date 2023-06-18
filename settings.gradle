@@ -5,6 +5,7 @@ include 'unidirectional-association'
 include 'one-to-many-unidirectional'
 include 'many-to-many-unidirectional'
 include 'many-to-many-bidirectional'
+include 'alternative-many-to-many'
 
 // value object
 include 'value-object-collection'
