@@ -1,4 +1,5 @@
 ## association mapping
+##### `unidirectional-association`: 단방향 연관관계
 ##### `one-to-many-unidirectional`: 일대다 단방향[1:N] -> 단점 존재(대안: 다대일 양방향 매핑을 활용) 
 
 ## value object
